@@ -1,0 +1,28 @@
+﻿@{
+    ViewBag.Title = "Game of Thrones";
+    Layout = null;
+}
+
+<html>
+<head>
+    @RenderPage("/Views/Shared/header.cshtml")
+    
+</head>
+
+<body>
+    <title>Game of Thrones</title>
+        <div id="corps">
+            <h1 id="load">Chargement...</h1>
+            <progress id="progress" value="0" min="0" max="100">0%</progress>
+        </div>
+        <div id="menu">
+            <a href="/Game/Choix" id="bottle"><img id="m1" style="margin-bottom: 5px;" src="/images/button/button.png" /></a>
+            <img id="m2" style="margin-bottom: 5px;" src="/images/button/option.png" />
+            <img id="m3" style="margin-bottom: 5px;" src="/images/button/credit.png" />
+        </div>
+        <script type="text/javascript">
+            progress();
+        </script>
+
+</body>
+</html>

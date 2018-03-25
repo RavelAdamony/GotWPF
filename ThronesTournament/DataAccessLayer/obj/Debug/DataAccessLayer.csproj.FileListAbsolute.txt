@@ -1,0 +1,30 @@
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\ThronesTournamentConsole\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\ThronesTournamentConsole\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\ThronesTournamentConsole\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\ThronesTournamentConsole\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\ThronesTournamentConsole\DataAccessLayer\bin\Debug\EntitiesLayer.dll
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\ThronesTournamentConsole\DataAccessLayer\bin\Debug\EntitiesLayer.pdb
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\ThronesTournamentConsole\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\ThronesTournamentConsole\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\Projet\ThronesTournament\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\Projet\ThronesTournament\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\Projet\ThronesTournament\DataAccessLayer\bin\Debug\EntitiesLayer.dll
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\Projet\ThronesTournament\DataAccessLayer\bin\Debug\EntitiesLayer.pdb
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\Projet\ThronesTournament\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\Projet\ThronesTournament\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\Projet\ThronesTournament\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\Projet\ThronesTournament\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\RavelLaptop\Documents\Courstizen\Cours ISIMA ZZ2\C#\ProjetWPF\GameOfThrone\ThronesTournament\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\RavelLaptop\Documents\Courstizen\Cours ISIMA ZZ2\C#\ProjetWPF\GameOfThrone\ThronesTournament\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\RavelLaptop\Documents\Courstizen\Cours ISIMA ZZ2\C#\ProjetWPF\GameOfThrone\ThronesTournament\DataAccessLayer\bin\Debug\EntitiesLayer.dll
+C:\Users\RavelLaptop\Documents\Courstizen\Cours ISIMA ZZ2\C#\ProjetWPF\GameOfThrone\ThronesTournament\DataAccessLayer\bin\Debug\EntitiesLayer.pdb
+C:\Users\RavelLaptop\Documents\Courstizen\Cours ISIMA ZZ2\C#\ProjetWPF\GameOfThrone\ThronesTournament\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\RavelLaptop\Documents\Courstizen\Cours ISIMA ZZ2\C#\ProjetWPF\GameOfThrone\ThronesTournament\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\RavelLaptop\Documents\Courstizen\Cours ISIMA ZZ2\C#\ProjetWPF\GameOfThrone\ThronesTournament\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\MyLittle\Documents\Courstizen\Cours ISIMA ZZ2\C#\GameOfThrone\ThronesTournament\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\MyLittle\Documents\Courstizen\Cours ISIMA ZZ2\C#\GameOfThrone\ThronesTournament\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\MyLittle\Documents\Courstizen\Cours ISIMA ZZ2\C#\GameOfThrone\ThronesTournament\DataAccessLayer\bin\Debug\EntitiesLayer.dll
+C:\Users\MyLittle\Documents\Courstizen\Cours ISIMA ZZ2\C#\GameOfThrone\ThronesTournament\DataAccessLayer\bin\Debug\EntitiesLayer.pdb
+C:\Users\MyLittle\Documents\Courstizen\Cours ISIMA ZZ2\C#\GameOfThrone\ThronesTournament\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\MyLittle\Documents\Courstizen\Cours ISIMA ZZ2\C#\GameOfThrone\ThronesTournament\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\MyLittle\Documents\Courstizen\Cours ISIMA ZZ2\C#\GameOfThrone\ThronesTournament\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
