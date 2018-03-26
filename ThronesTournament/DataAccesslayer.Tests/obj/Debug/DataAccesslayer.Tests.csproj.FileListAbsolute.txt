@@ -18,3 +18,22 @@ C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\Projet\ThronesTournament\Da
 C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\Projet\ThronesTournament\DataAccesslayer.Tests\obj\Debug\DataAccesslayer.Tests.csproj.CoreCompileInputs.cache
 C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\Projet\ThronesTournament\DataAccesslayer.Tests\obj\Debug\DataAccesslayer.Tests.dll
 C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\Projet\ThronesTournament\DataAccesslayer.Tests\obj\Debug\DataAccesslayer.Tests.pdb
+C:\Users\MyLittle\Documents\Courstizen\Cours ISIMA ZZ2\C#\GameOfThrone\ThronesTournament\DataAccesslayer.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\MyLittle\Documents\Courstizen\Cours ISIMA ZZ2\C#\GameOfThrone\ThronesTournament\DataAccesslayer.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\MyLittle\Documents\Courstizen\Cours ISIMA ZZ2\C#\GameOfThrone\ThronesTournament\DataAccesslayer.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\MyLittle\Documents\Courstizen\Cours ISIMA ZZ2\C#\GameOfThrone\ThronesTournament\DataAccesslayer.Tests\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\MyLittle\Documents\Courstizen\Cours ISIMA ZZ2\C#\GameOfThrone\ThronesTournament\DataAccesslayer.Tests\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\MyLittle\Documents\Courstizen\Cours ISIMA ZZ2\C#\GameOfThrone\ThronesTournament\DataAccesslayer.Tests\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\MyLittle\Documents\Courstizen\Cours ISIMA ZZ2\C#\GameOfThrone\ThronesTournament\DataAccesslayer.Tests\bin\Debug\DataAccesslayer.Tests.dll
+C:\Users\MyLittle\Documents\Courstizen\Cours ISIMA ZZ2\C#\GameOfThrone\ThronesTournament\DataAccesslayer.Tests\bin\Debug\DataAccesslayer.Tests.pdb
+C:\Users\MyLittle\Documents\Courstizen\Cours ISIMA ZZ2\C#\GameOfThrone\ThronesTournament\DataAccesslayer.Tests\bin\Debug\DataAccessLayer.dll
+C:\Users\MyLittle\Documents\Courstizen\Cours ISIMA ZZ2\C#\GameOfThrone\ThronesTournament\DataAccesslayer.Tests\bin\Debug\EntitiesLayer.dll
+C:\Users\MyLittle\Documents\Courstizen\Cours ISIMA ZZ2\C#\GameOfThrone\ThronesTournament\DataAccesslayer.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\MyLittle\Documents\Courstizen\Cours ISIMA ZZ2\C#\GameOfThrone\ThronesTournament\DataAccesslayer.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\MyLittle\Documents\Courstizen\Cours ISIMA ZZ2\C#\GameOfThrone\ThronesTournament\DataAccesslayer.Tests\bin\Debug\DataAccessLayer.pdb
+C:\Users\MyLittle\Documents\Courstizen\Cours ISIMA ZZ2\C#\GameOfThrone\ThronesTournament\DataAccesslayer.Tests\bin\Debug\EntitiesLayer.pdb
+C:\Users\MyLittle\Documents\Courstizen\Cours ISIMA ZZ2\C#\GameOfThrone\ThronesTournament\DataAccesslayer.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\MyLittle\Documents\Courstizen\Cours ISIMA ZZ2\C#\GameOfThrone\ThronesTournament\DataAccesslayer.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\MyLittle\Documents\Courstizen\Cours ISIMA ZZ2\C#\GameOfThrone\ThronesTournament\DataAccesslayer.Tests\obj\Debug\DataAccesslayer.Tests.csprojResolveAssemblyReference.cache
+C:\Users\MyLittle\Documents\Courstizen\Cours ISIMA ZZ2\C#\GameOfThrone\ThronesTournament\DataAccesslayer.Tests\obj\Debug\DataAccesslayer.Tests.dll
+C:\Users\MyLittle\Documents\Courstizen\Cours ISIMA ZZ2\C#\GameOfThrone\ThronesTournament\DataAccesslayer.Tests\obj\Debug\DataAccesslayer.Tests.pdb

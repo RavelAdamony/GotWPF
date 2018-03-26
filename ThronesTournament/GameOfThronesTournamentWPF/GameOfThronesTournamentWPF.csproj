@@ -63,7 +63,7 @@
     <Compile Include="EditHouses.xaml.cs">
       <DependentUpon>EditHouses.xaml</DependentUpon>
     </Compile>
-    <Compile Include="ViewModels\HouseViewModel.cs" />
+    <Compile Include="HouseViewModel.cs" />
     <Page Include="EditHouses.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>

@@ -14,17 +14,12 @@ namespace WebApiGoT.Models
         public List<CharacterDTO> Housers;
 
 
-        /*public HouseDTO(House house) {
+        public HouseDTO() {
 
-            this.Name = house.Name;
-            this.NumberOfUnities = house.NumberOfUnities;
+            this.Name = "Inconnu";
+            this.NumberOfUnities = 0;
 
             this.Housers = new List<CharacterDTO>();
-
-            foreach(var character in house.Housers)
-            {
-                this.Housers.Add(new CharacterDTO(character));
-            }
-        }*/
+        }
     }
 }

@@ -16,8 +16,8 @@ namespace WebApiGoT.Models
         public int Crazyness { get; set; }
         public int Pv { get; set; }
 
-        /*
-        public CharacterDTO(Character character) {
+        
+        /*public CharacterDTO(Character character) {
 
             this.FirstName = character.FirstName;
             this.LastName = character.LastName;

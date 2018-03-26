@@ -111,3 +111,4 @@ C:\Users\MyLittle\Documents\Courstizen\Cours ISIMA ZZ2\C#\GameOfThrone\ThronesTo
 C:\Users\MyLittle\Documents\Courstizen\Cours ISIMA ZZ2\C#\GameOfThrone\ThronesTournament\GameOfThronesTournamentWPF\obj\Debug\GameOfThronesTournamentWPF.g.resources
 C:\Users\MyLittle\Documents\Courstizen\Cours ISIMA ZZ2\C#\GameOfThrone\ThronesTournament\GameOfThronesTournamentWPF\obj\Debug\GameOfThronesTournamentWPF.Properties.Resources.resources
 C:\Users\MyLittle\Documents\Courstizen\Cours ISIMA ZZ2\C#\GameOfThrone\ThronesTournament\GameOfThronesTournamentWPF\obj\Debug\GameOfThronesTournamentWPF.csproj.GenerateResource.Cache
+C:\Users\MyLittle\Documents\Courstizen\Cours ISIMA ZZ2\C#\GameOfThrone\ThronesTournament\GameOfThronesTournamentWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs

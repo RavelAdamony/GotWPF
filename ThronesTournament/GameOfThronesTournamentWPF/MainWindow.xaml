@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:GameOfThronesTournamentWPF"
         mc:Ignorable="d"
-        Title="MainWindow" Height="350" Width="525">
+        Title="MainWindow" Height="350" Width="995.588">
     <Grid Background="Black">
         <ListView x:Name="listView" HorizontalAlignment="Left" Height="205" Margin="27,91,0,0" VerticalAlignment="Top" Width="463">
             <ListView.View>
@@ -15,7 +15,7 @@
             </ListView.View>
         </ListView>
         <Button x:Name="list_houses_button" HorizontalAlignment="Left" VerticalAlignment="Top" Content="List Houses" Margin="27,66,0,0" Click="displayHouses"/>
-        <Button x:Name="edit_houses_button" HorizontalAlignment="Left" VerticalAlignment="Top" Content="Edit Houses" Margin="96,66,0,0" Click="editHouses"/>
         <Label x:Name="label" Content="Game of Thrones" HorizontalAlignment="Left" Height="39" Margin="193,10,0,0" VerticalAlignment="Top" Width="102" Foreground="White"/>
+        <local:EditHouses HorizontalAlignment="Left" Margin="505,91,0,0" VerticalAlignment="Top"/>
     </Grid>
 </Window>

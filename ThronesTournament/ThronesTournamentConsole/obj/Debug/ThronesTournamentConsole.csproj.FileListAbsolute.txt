@@ -40,3 +40,12 @@ C:\Users\RavelLaptop\Documents\Courstizen\Cours ISIMA ZZ2\C#\ProjetWPF\GameOfThr
 C:\Users\MyLittle\Documents\Courstizen\Cours ISIMA ZZ2\C#\GameOfThrone\ThronesTournament\ThronesTournamentConsole\bin\Debug\ThronesTournamentConsole.exe.config
 C:\Users\MyLittle\Documents\Courstizen\Cours ISIMA ZZ2\C#\GameOfThrone\ThronesTournament\ThronesTournamentConsole\obj\Debug\ThronesTournamentConsole.exe
 C:\Users\MyLittle\Documents\Courstizen\Cours ISIMA ZZ2\C#\GameOfThrone\ThronesTournament\ThronesTournamentConsole\obj\Debug\ThronesTournamentConsole.pdb
+C:\Users\MyLittle\Documents\Courstizen\Cours ISIMA ZZ2\C#\GameOfThrone\ThronesTournament\ThronesTournamentConsole\bin\Debug\ThronesTournamentConsole.exe
+C:\Users\MyLittle\Documents\Courstizen\Cours ISIMA ZZ2\C#\GameOfThrone\ThronesTournament\ThronesTournamentConsole\bin\Debug\ThronesTournamentConsole.pdb
+C:\Users\MyLittle\Documents\Courstizen\Cours ISIMA ZZ2\C#\GameOfThrone\ThronesTournament\ThronesTournamentConsole\bin\Debug\BusinessLayer.dll
+C:\Users\MyLittle\Documents\Courstizen\Cours ISIMA ZZ2\C#\GameOfThrone\ThronesTournament\ThronesTournamentConsole\bin\Debug\EntitiesLayer.dll
+C:\Users\MyLittle\Documents\Courstizen\Cours ISIMA ZZ2\C#\GameOfThrone\ThronesTournament\ThronesTournamentConsole\bin\Debug\DataAccessLayer.dll
+C:\Users\MyLittle\Documents\Courstizen\Cours ISIMA ZZ2\C#\GameOfThrone\ThronesTournament\ThronesTournamentConsole\bin\Debug\BusinessLayer.pdb
+C:\Users\MyLittle\Documents\Courstizen\Cours ISIMA ZZ2\C#\GameOfThrone\ThronesTournament\ThronesTournamentConsole\bin\Debug\EntitiesLayer.pdb
+C:\Users\MyLittle\Documents\Courstizen\Cours ISIMA ZZ2\C#\GameOfThrone\ThronesTournament\ThronesTournamentConsole\bin\Debug\DataAccessLayer.pdb
+C:\Users\MyLittle\Documents\Courstizen\Cours ISIMA ZZ2\C#\GameOfThrone\ThronesTournament\ThronesTournamentConsole\obj\Debug\ThronesTournamentConsole.csprojResolveAssemblyReference.cache

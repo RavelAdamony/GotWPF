@@ -36,8 +36,8 @@ namespace GameOfThronesTournamentWPF
 
         private void editHouses(object sender, RoutedEventArgs e)
         {
-            EditHouses edit_user_control = new EditHouses();
-            //edit_user_control.;
+            //EditHouses edit_window = new EditHouses();
+            //edit_window.Show();
         }
 
         public async Task<List<HouseDTO>> GetHouses()

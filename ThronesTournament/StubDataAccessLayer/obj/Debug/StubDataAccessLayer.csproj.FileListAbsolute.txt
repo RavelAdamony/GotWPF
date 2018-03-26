@@ -21,3 +21,10 @@ C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\Projet\ThronesTournament\St
 C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\Projet\ThronesTournament\StubDataAccessLayer\bin\Debug\StubDataAccessLayer.pdb
 C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\Projet\ThronesTournament\StubDataAccessLayer\bin\Debug\EntitiesLayer.dll
 C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\Projet\ThronesTournament\StubDataAccessLayer\bin\Debug\EntitiesLayer.pdb
+C:\Users\MyLittle\Documents\Courstizen\Cours ISIMA ZZ2\C#\GameOfThrone\ThronesTournament\StubDataAccessLayer\bin\Debug\StubDataAccessLayer.dll
+C:\Users\MyLittle\Documents\Courstizen\Cours ISIMA ZZ2\C#\GameOfThrone\ThronesTournament\StubDataAccessLayer\bin\Debug\StubDataAccessLayer.pdb
+C:\Users\MyLittle\Documents\Courstizen\Cours ISIMA ZZ2\C#\GameOfThrone\ThronesTournament\StubDataAccessLayer\bin\Debug\EntitiesLayer.dll
+C:\Users\MyLittle\Documents\Courstizen\Cours ISIMA ZZ2\C#\GameOfThrone\ThronesTournament\StubDataAccessLayer\bin\Debug\EntitiesLayer.pdb
+C:\Users\MyLittle\Documents\Courstizen\Cours ISIMA ZZ2\C#\GameOfThrone\ThronesTournament\StubDataAccessLayer\obj\Debug\StubDataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\MyLittle\Documents\Courstizen\Cours ISIMA ZZ2\C#\GameOfThrone\ThronesTournament\StubDataAccessLayer\obj\Debug\StubDataAccessLayer.dll
+C:\Users\MyLittle\Documents\Courstizen\Cours ISIMA ZZ2\C#\GameOfThrone\ThronesTournament\StubDataAccessLayer\obj\Debug\StubDataAccessLayer.pdb
